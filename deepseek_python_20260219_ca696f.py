@@ -14,7 +14,7 @@ from aiogram.utils.keyboard import ReplyKeyboardBuilder
 from aiogram.enums import ParseMode
 
 # --- Конфигурация ---
-BOT_TOKEN = 8594717446:"AAEqCTg2d9yKDc5uUXYv3fUPrwcDxy8yXrg"  # Замените на токен от @BotFather
+BOT_TOKEN = 8594717446:"AAEqCTg2d9yKDc5uUXYv3fUPrwcDxy8yXrg"  
 PAYMENT_PROVIDER_TOKEN = "YOUR_PROVIDER_TOKEN"  # Для Stars можно оставить пустым или "STARS"
 ADMIN_USERNAME = "@kyniks"  # Ник для связи по выводу
 MIN_WITHDRAW = Decimal("0.05")
